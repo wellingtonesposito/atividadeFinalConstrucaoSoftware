@@ -1,0 +1,23 @@
+.menu {
+    width:12vw;
+    height:41vw;
+    background-color:#153e54; 
+}
+
+.menu > ul > li {
+    list-style: none;
+    width: 9vw;
+    height: 2vw;
+    text-align: center;
+    align-items: center;
+}
+
+.menu > ul > li:hover{
+    background-color: cornsilk;
+}
+
+.menu > ul > li > a {
+    text-decoration: none;
+    color: gray ;
+    align-items: center;
+}

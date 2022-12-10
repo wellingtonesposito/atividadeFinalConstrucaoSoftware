@@ -1,0 +1,16 @@
+.cabecalho {
+    display: flex;
+    width: 99vw;
+    height: 7vw;
+    background-color:#153e54; 
+}
+
+.cabecalho .titulo {
+    display: flex;
+    width: 80vw;
+    align-items: center;
+    padding-left: 13vw;
+    justify-content: left;
+    color:cornsilk;    
+}
+   
